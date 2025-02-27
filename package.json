@@ -1,0 +1,26 @@
+{
+  "name": "s81_strongstart",
+  "version": "1.0.0",
+  "description": "StrongStart is an interactive platform that will train users **smarter, safer, and more effectively** on gym equipment. It is a **mobile and web application** that offers **step-by-step exercise instructions**, **targeted muscle groups**, and **common mistakes** to avoid. It doesn't matter if you are a **beginner learning the ropes** or an **experienced lifter refining your form**; StrongStart will make sure you get the most out of every workout while minimizing the risks of injury.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalviumcommunity/s81_strongstart.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kalviumcommunity/s81_strongstart/issues"
+  },
+  "homepage": "https://github.com/kalviumcommunity/s81_strongstart#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.10.1",
+    "nodemon": "^3.1.9"
+  }
+}

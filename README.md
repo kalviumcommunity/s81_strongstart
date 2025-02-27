@@ -82,4 +82,4 @@ Helps people **train smarter, stay consistent, and reach their fitness goals.**
  
 ---
  **StrongStart isn't just another fitness app—it's a smarter way to train...
-Let's do it! ???? Ready to build something that changes the way people work out? ????
+
